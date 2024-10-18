@@ -87,6 +87,14 @@ const processInput = useCallback((phrase: string) => {
 }, [words, addWords]);
 ```
 
+## Quick Start
+
+Experience the Holographic Neural Network in action:
+
+[![Open in v0.dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThekLn5dFXm6sKrFe7SRgELQspSJzxhJOlKg&s)](https://v0.dev/chat/gLP3CK3ATjk?b=b_AsIXeoRmLmN)
+
+
+
 This function demonstrates how the system processes input text and generates output based on the learned word relationships, showcasing its potential as a language model component.
 
 ## 4. P2P Network Integration
