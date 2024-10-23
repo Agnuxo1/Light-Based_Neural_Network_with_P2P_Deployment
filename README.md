@@ -143,6 +143,38 @@ This project introduces a novel approach to neural network architecture, leverag
 
 Future work will focus on scaling up the system, optimizing the P2P integration, and exploring applications in more complex language modeling tasks. We believe this approach has the potential to contribute significantly to the development of more efficient and distributed AI systems.
 
+
+## Deploy the project and test the prototype here: 
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/sb1-56sqdy) 
+
+
+
+https://github.com/user-attachments/assets/4f878d32-00fd-429c-99d3-59c66f356497
+
+
+
+![Captura de pantalla -2024-10-23 12-39-49](https://github.com/user-attachments/assets/98ee359c-2e58-419d-b13e-7d2fe4708b7a)
+
+
+
+![Captura de pantalla -2024-10-23 12-40-20](https://github.com/user-attachments/assets/97b2e360-729d-465d-9bd7-92cc360ba089)
+
+
+
+![Captura de pantalla -2024-10-23 12-41-22](https://github.com/user-attachments/assets/cec785b0-f91c-4ef0-90a5-f8e8911dcbf7)
+
+
+
+![Captura de pantalla -2024-10-23 12-41-52](https://github.com/user-attachments/assets/3cf5b849-2f27-42fa-98b6-58a5192ce288)
+
+
+
+![Captura de pantalla -2024-10-23 12-42-26](https://github.com/user-attachments/assets/9ba85b4a-e39e-4e05-9fba-565952174885)
+
+
+
+
 ## 7. References
 
 1. Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual Web search engine. Computer Networks and ISDN Systems, 30(1-7), 107-117. (Creators of PageRank, a foundational algorithm for P2P networks)
