@@ -1,4 +1,5 @@
 # Light-Based Neural Network with P2P Deployment
+Francisco Angulo de Lafuente
 
 ## Abstract
 
